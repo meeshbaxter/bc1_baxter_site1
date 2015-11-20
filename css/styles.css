@@ -1,0 +1,30 @@
+
+header {
+    background-color:#440022;
+    height:250px;
+}
+main {
+    	background-color: #666600;
+    	height:200px;
+}
+footer {
+    background-color:#440022;
+}
+mainBody {
+    width:200px;
+}
+
+li {
+    
+    float:right;
+    margin:20px;
+}
+h1 {
+	color:#00FF00;
+}
+p {
+    color:#FF0000;
+}
+.green {
+    color:#666600;
+}
